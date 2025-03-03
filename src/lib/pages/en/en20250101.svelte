@@ -58,13 +58,3 @@
 </p>
 
 <p>Effective Date: January 24, 2025</p>
-
-<style>
-	main {
-		max-width: 800px;
-		margin: 0 auto;
-		padding: 2rem;
-		background-color: #f0f8ff;
-		border-radius: 8px;
-	}
-</style>
