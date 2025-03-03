@@ -1,6 +1,6 @@
 <main>
     <p>
-        This Privacy Policy explains how the Flappy Duck app collects and uses
+        This Privacy Policy explains how the Pinball Roulette app collects and uses
         personal information.
     </p>
 
@@ -59,5 +59,5 @@
         through the app at least 7 days before the changes take effect.
     </p>
 
-    <p>Effective Date: January 24, 2025</p>
+    <p>Effective Date: March 3, 2025</p>
 </main>

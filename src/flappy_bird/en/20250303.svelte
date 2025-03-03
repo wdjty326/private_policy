@@ -3,7 +3,7 @@
 </script>
 
 <main>
-    <p>This Privacy Policy explains how the Flappy Bird app collects and uses personal information.</p>
+    <p>This Privacy Policy explains how the Flappy Duck app collects and uses personal information.</p>
 
     <h2>1. Information We Collect</h2>
     <p>Our app collects the following information:</p>
