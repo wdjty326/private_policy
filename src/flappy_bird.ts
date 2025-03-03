@@ -1,8 +1,9 @@
 import { mount } from 'svelte'
 import './app.css'
-import App from './App.svelte'
+// @ts-ignore
+import FlappyBirdApp from './flappy_bird/flappy_bird_app.svelte'
 
-const app = mount(App, {
+const app = mount(FlappyBirdApp, {
   target: document.getElementById('app')!,
 })
 
